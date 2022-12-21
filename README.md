@@ -41,9 +41,13 @@ You'll see output indicating your account and user information:
 ec2-user:~/environment $ aws sts get-caller-identity
 
 {
+
     "Account": "123456789012",
+    
     "UserId": "AKIAI44QH8DHBEXAMPLE",
+    
     "Arn": "arn:aws:iam::123456789012:user/Alice"
+    
 }
 
 Keep your AWS Cloud9 IDE opened in a tab throughout this workshop.
