@@ -2,11 +2,11 @@
 
 ## AWS Account
 
-In order to complete this workshop, you'll need an AWS account and access to create AWS Identity and Access Management (IAM), Amazon Cognito, AWS Lambda, Amazon S3, Amazon API Gateway, AWS Amplify Console, Amazon DynamoDB, and AWS Cloud9 resources within that account.
+In order to complete this project, you'll need an AWS account and access to create AWS Identity and Access Management (IAM), Amazon Cognito, AWS Lambda, Amazon S3, Amazon API Gateway, AWS Amplify Console, Amazon DynamoDB, and AWS Cloud9 resources within that account.
 
-The code and instructions in this workshop assume only one participant is using a given AWS account at a time. If you attempt sharing an account with another participant, you will encounter naming conflicts for certain resources. You can work around this by either using a suffix in your resource names or using distinct Regions, but the instructions do not provide details on the changes required to make this work.
+The code and instructions in this project assume only one participant is using a given AWS account at a time. If you attempt sharing an account with another participant, you will encounter naming conflicts for certain resources. You can work around this by either using a suffix in your resource names or using distinct Regions, but the instructions do not provide details on the changes required to make this work.
 
-Use a personal account or create a new AWS account for this workshop rather than using an organization's account to ensure you have full access to the necessary services and to ensure you do not leave behind any resources from the workshop.
+Use a personal account or create a new AWS account for this workshop rather than using an organization's account to ensure you have full access to the necessary services and to ensure you do not leave behind any resources from the project.
 
 ### AWS Cloud9 IDE
 
