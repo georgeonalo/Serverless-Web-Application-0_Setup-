@@ -58,4 +58,4 @@ Keep your AWS Cloud9 IDE opened in a tab throughout this workshop.
 
 ###### Next
 
-✅ Proceed to the first module, ([[StaticWeb Hosting](https://github.com/georgeonalo/Serverless-Web-Application-1_StaticWebHosting-)]), wherein you'll deploy a static web site via AWS Amplify Console.
+✅ Proceed to the first module, [StaticWeb Hosting](https://github.com/georgeonalo/Serverless-Web-Application-1_StaticWebHosting-), wherein you'll deploy a static web site via AWS Amplify Console.
